@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-macjessie.bartolome%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### Tech Community:
-<a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/jessie bartolome-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/manas-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ------------------------------------------- 
 
