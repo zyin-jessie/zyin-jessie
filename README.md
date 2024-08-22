@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: macjessie.bartolome@gmail.com">
-<img src="https://img.shields.io/badge/-bartolome%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-macjessie.bartolome%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### Tech Community:
 [![Community](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.com/invite/DzxYsnqSUB) 
