@@ -19,4 +19,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{zyin-jessie}/count.svg)
