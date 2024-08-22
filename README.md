@@ -10,13 +10,10 @@
 ### Tech Community:
 [![Community](https://discordapp.com/api/guilds/890526319790669895/widget.png?style=banner2)](https://discord.com/invite/DzxYsnqSUB) 
 
-
-
-[//]: <> (Credits: carlcastanas)
-[//]: <> (Credits: Last edited on: 01/12/23)
-
-
 ------------------------------------------- 
 
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{zyin-jessie}/count.svg)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ewqeqeq) 
