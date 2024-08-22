@@ -1,4 +1,4 @@
-[![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/jessie bartolome-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/macjessie.bartolome.58/"><img src="https://img.shields.io/badge/jessie bartolome-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
