@@ -1,8 +1,7 @@
 [![@carlcastanas](https://raw.githubusercontent.com/carlcastanas/carlcastanas/main/assets/1.gif)](https://facebook.com/carlcastanas)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/bartolome-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
-<a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/bartolome-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/bartolome-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/bartolome-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: macjessie.bartolome@gmail.com">
