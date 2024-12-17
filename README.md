@@ -20,6 +20,12 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=next,react,vite,laravel" alt="jisii">
 </p>
+
+<h3 align="left">Backend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=express,firebase" alt="jisii">
+</p>
+
 ------------------------------------------- 
 
 ### Profile Visits:
