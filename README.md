@@ -2,11 +2,8 @@
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/jessie bartolome-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/macjessie.bartolome.58/"><img src="https://img.shields.io/badge/jessie bartolome-1877F2?style=for-the-badge&logo=facebook&logoColor=white">  <a href="mailto: macjessie.bartolome@gmail.com">
-<img src="https://img.shields.io/badge/-jisii%40gmail.com-7B83EB?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a></a> 
+<img src="https://img.shields.io/badge/-jisii%40gmail.com-7B83EB?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a></a> 
 <br>
-
-### Tech Community:
-<a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/manas-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
