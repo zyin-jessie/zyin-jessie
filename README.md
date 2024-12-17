@@ -26,6 +26,16 @@
 <img src="https://skillicons.dev/icons?i=express,firebase" alt="jisii">
 </p>
 
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongo,sqlite" alt="Jisii">
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,bash,vscode,figma" alt="jisii">
+</p>
+
 ------------------------------------------- 
 
 ### Profile Visits:
