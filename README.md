@@ -33,7 +33,7 @@
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongo,sqlite" alt="Jisii">
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite" alt="Jisii">
 </p>
 
 <h3 align="left">Bucket List:</h3>
