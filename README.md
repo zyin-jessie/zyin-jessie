@@ -11,6 +11,11 @@
 ### Tech Community:
 <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/manas-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,bash,vscode,figma" alt="jisii">
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs" alt="Jisii">
@@ -18,7 +23,7 @@
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,vite,laravel" alt="jisii">
+<img src="https://skillicons.dev/icons?i=next,react,vite" alt="jisii">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
@@ -31,9 +36,9 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongo,sqlite" alt="Jisii">
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Bucket List:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,bash,vscode,figma" alt="jisii">
+<img src="https://skillicons.dev/icons?i=go,laravel,prisma,mongo" alt="jisii">
 </p>
 
 ------------------------------------------- 
