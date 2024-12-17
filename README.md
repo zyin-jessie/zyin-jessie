@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css,php" alt="Jisii">
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css,php,c#" alt="Jisii">
 </p>
 ------------------------------------------- 
 
