@@ -31,7 +31,7 @@
 
 <h3 align="left">Bucket List:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=go,laravel,prisma,mongo,docker,aws" alt="jisii">
+<img src="https://skillicons.dev/icons?i=go,laravel,mongo,docker,aws" alt="jisii">
 </p>
 
 ------------------------------------------- 
