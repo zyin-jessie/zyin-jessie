@@ -6,7 +6,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,prisma,bash,vscode,figma,framer,zustand" alt="jisii">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,prisma,bash,vscode,figma,framer" alt="jisii">
 </p>
 
 <h3 align="left">Languages:</h3>
