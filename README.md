@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py,zig" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py" alt="John Layda">
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -14,10 +14,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,prisma,bash,vscode,figma">
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,css" alt="John Layda">
-</p>
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs" alt="Jisii">
