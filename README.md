@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,html,htmx,css,scss,php,java,rust,py,zig" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,css" alt="John Layda">
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
