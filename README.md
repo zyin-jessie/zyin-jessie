@@ -1,7 +1,7 @@
 <a href=""><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 ------------------------------------------- 
 ### Socials: 
-<a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/jessie bartolome-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/macjessie.bartolome.58/"><img src="https://img.shields.io/badge/jessie bartolome-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a></a> 
+<a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyin-jessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyin-jessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a></a> 
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -22,37 +22,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-<!--
-<h3 align="left">Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,nodejs,npm,prisma,bash,vscode,figma">
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs" alt="Jisii">
-</p>
-
-<h3 align="left">Frontend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,vite" alt="jisii">
-</p>
-
-<h3 align="left">Backend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=express,firebase" alt="jisii">
-</p>
-
-<h3 align="left">Database:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Jisii">
-</p>
-
-<h3 align="left">Bucket List:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=go,laravel,mongo,docker,aws" alt="jisii">
-</p>
--->
 
 ------------------------------------------- 
 
