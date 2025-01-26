@@ -9,7 +9,12 @@
 ------------------------------------------- 
 
 ### Socials: 
-<a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyinjessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a></a> 
+<div align="center">
+  <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+  <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyinjessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
