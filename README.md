@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyinjessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <br>
+  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -26,10 +26,10 @@
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  <!-- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) -->
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <!-- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) -->
 </div>
 
 
