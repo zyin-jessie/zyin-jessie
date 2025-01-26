@@ -1,6 +1,9 @@
 <!--<a href=""><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a> -->
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<div>
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
 ------------------------------------------- 
+
 ### Socials: 
 <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyinjessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a></a> 
 <br>
