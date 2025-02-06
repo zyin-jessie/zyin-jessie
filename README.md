@@ -1,4 +1,4 @@
-<!--<a href=""><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a> --> 
+<!--<a href=""><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a> -->
 <h1 align="center">Hi, I'm Jessie Bartolome</h1>
 <h3 align="center">A Front-End Developer in Information Technology</h3>
 
