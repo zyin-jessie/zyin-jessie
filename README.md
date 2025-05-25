@@ -45,7 +45,7 @@
   ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
   ![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF)
-
+  ![Static Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF)
 </div> 
 
 
