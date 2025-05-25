@@ -19,7 +19,7 @@
   [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![Tailwindcss](https://img.shields.io/badge/Tailwind%20css-000000?style=for-the-badge&logo=tailwindcss)
+  ![Tailwindcss](https://img.shields.io/badge/Tailwind%20css-7dd3fc?style=for-the-badge&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap)
   ![PHP](https://img.shields.io/badge/PHP-Badge%20?style=for-the-badge&logo=php&logoColor=%23FFFFFF&logoSize=auto&color=%23777BB4&cacheSeconds=86400) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,9 +34,12 @@
   ![JWT](https://img.shields.io/badge/JSON%20WEB%20TOKEN-FD3456?style=for-the-badge&logo=jsonwebtokens)
   ![Bash](https://img.shields.io/badge/Bash-Badge%20?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&logoSize=auto&color=%234EAA25&cacheSeconds=86400) 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Mongodb](https://img.shields.io/badge/Mongodb-FFFFFF?style=for-the-badge&logo=mongodb)
   ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+  ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div> 
 
