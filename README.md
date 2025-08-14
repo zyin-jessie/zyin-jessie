@@ -14,8 +14,22 @@
   <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
   <br>
-  
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![Tailwindcss](https://img.shields.io/badge/Tailwind%20css-7dd3fc?style=for-the-badge&logo=tailwindcss)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Mongodb](https://img.shields.io/badge/Mongodb-FFFFFF?style=for-the-badge&logo=mongodb)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)
+  
+  <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -45,7 +59,7 @@
   ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
   ![Apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF)
-  ![Static Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF)
+  ![Static Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=FFFFFF)-->
 </div> 
 
 
