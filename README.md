@@ -64,5 +64,5 @@
 
 ------------------------------------------- 
 
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{zyin-jessie}/count.svg)
+<!--### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{zyin-jessie}/count.svg)-->
