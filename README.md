@@ -4,8 +4,6 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
-      
-
 ------------------------------------------- 
 
 <div align="center">
@@ -17,6 +15,7 @@
 <br>
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=js,typescript,php,python,java,bash,html,css,git,cs" />
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
