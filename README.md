@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
+      
+
 ------------------------------------------- 
 
 <div align="center">
@@ -38,6 +40,23 @@
   ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
+
+<hr>
+<table align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyin-jessie&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=zyin-jessie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyin-jessie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyin-jessie&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
   <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -72,6 +91,7 @@
 
 
 ------------------------------------------- 
+<img src="https://komarev.com/ghpvc/?username=zyin-jessie&color=bdb2ff&style=for-the-badge"/>
 
 <!--### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{zyin-jessie}/count.svg)-->
