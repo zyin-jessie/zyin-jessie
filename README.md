@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,go,laravel,python,java,php,bash,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
 
 <hr>
