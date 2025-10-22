@@ -4,7 +4,8 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
-------------------------------------------- 
+<br>
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
@@ -19,7 +20,8 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
 
-------------------------------------------- 
+-------------------------------------------
+
 <table align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyin-jessie&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
   <tr>
