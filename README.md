@@ -10,8 +10,9 @@
   <a href="https://www.instagram.com/zyxcb_zyyy/"><img src="https://img.shields.io/badge/zyinjessie-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
   <a href="https://www.facebook.com/zyin-jessie/"><img src="https://img.shields.io/badge/zyinjessie-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://discord.com/invite/DzxYsnqSUB"><img src="https://img.shields.io/badge/Osorex-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Email-jxieee798.com-red?style=for-the-badge&logo=gmail" />
 </div> 
-
 <br>
 
 <div align="center">
