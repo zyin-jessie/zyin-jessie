@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
 
-<hr>
+------------------------------------------- 
 <table align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyin-jessie&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
   <tr>
