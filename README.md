@@ -33,10 +33,14 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyin-jessie&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
+<div align="center">
+  
+  ![Github Trophies](https://github-profile-trophy.vercel.app/?username=zyin-jessie&theme=tokyonight&row=1&column=6")
+  ![Github Snake](https://github.com/zyin-jessie/zyin-jessie/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
   <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
