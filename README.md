@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  ![Github Trophies](https://github-profile-trophy.vercel.app/?username=zyin-jessie&theme=tokyonight&row=1&column=6")
+  ![](https://github-profile-trophy.vercel.app/?username=zyin-jessie&theme=tokyonight&row=1&column=6")
   ![Github Snake](https://github.com/zyin-jessie/zyin-jessie/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
