@@ -20,8 +20,7 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
 
--------------------------------------------
-
+<!--
 <table align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyin-jessie&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Contribution Graph" />
   <tr>
@@ -40,6 +39,7 @@
   ![Github Snake](https://github.com/zyin-jessie/zyin-jessie/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
+-->
 
   <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   [![CSS](https://img.shields.io/badge/CSS-Badge%20?style=for-the-badge&logo=css&logoColor=%23FFFFFF&logoSize=auto&color=%23663399&cacheSeconds=86400) ](https://www.w3.org/Style/CSS/Overview.en.html)
